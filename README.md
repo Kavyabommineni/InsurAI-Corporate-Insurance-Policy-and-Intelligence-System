@@ -1,15 +1,9 @@
 # Insurance Management
 ---
-## screenshots
-### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
+## screenshot
 ### Admin Dashboard
 ![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
-### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
-### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
----
+
 ## Functions
 ### Admin
 - Admin account can be created using createsuperuser command.
